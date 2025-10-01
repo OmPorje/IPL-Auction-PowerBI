@@ -18,7 +18,7 @@ The dashboard provides insights into player statistics, team spending, and overa
 ![Dashboard Overview](PowerBI/dashboard1.png)
 
 ### Team-wise Expenditure
-![Team Expenditure](PowerBI/dashboard2.png)
+![Team Expenditure](PowerBI/dashboard02.png)
 
 ### Top Expensive Players
 ![Top Players](PowerBI/dashboard3.png)
