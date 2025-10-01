@@ -12,6 +12,17 @@ The dashboard provides insights into player statistics, team spending, and overa
 - Nationality-wise player distribution
 - Visual dashboards for quick insights
 
+## 🖼️ Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard1.png)
+
+### Team-wise Expenditure
+![Team Expenditure](screenshots/dashboard2.png)
+
+### Top Expensive Players
+![Top Players](screenshots/dashboard3.png)
+
 ---
 
 ## 🚀 How to Use
